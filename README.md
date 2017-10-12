@@ -1,4 +1,4 @@
-#pdata_check
+# pdata_check
 
 This python script is designed to identify unusual runtimes based on the pdata section and the last instruction of the runtime function.
 
